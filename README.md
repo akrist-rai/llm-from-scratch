@@ -19,11 +19,13 @@ This repository is organized as a modular library. Each key component of the LLM
 
 | Component | Status | Description |
 | :--- | :--- | :--- |
-| **[RoPE](./rope)** | ✅ Complete | Rotary Positional Embeddings (Complex number rotation for relative positioning) |
-| **RMSNorm** | 🚧 Planned | Root Mean Square Normalization for training stability |
-| **SwiGLU** | 🚧 Planned | The activation function used in Llama 2 / PaLM |
-| **GQA/MQA** | 🚧 Planned | Grouped/Multi-Query Attention for memory efficiency |
-| **Tokenizer** | 🚧 Planned | BPE Tokenizer training and inference |
+| **[RoPE](./rope)** |  Complete | Rotary Positional Embeddings (Complex number rotation for relative positioning) |
+| **RMSNorm** | incomplete | Root Mean Square Normalization for training stability |
+| **SwiGLU**  | incomplete | The activation function used in Llama 2 / PaLM |
+| **DSA** | incomplete | Grouped/Multi-Query Attention for memory efficiency |
+| **Tokenizer** | incomplete | BPE Tokenizer training and inference |
+| **Flash attention**| incomplete | optemize kv catche compute method
+
 
 ---
 
