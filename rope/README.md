@@ -59,13 +59,11 @@ Notice that the result depends **only** on $(m-n)$ (the relative distance), not 
 ## 🖼️ Visualizing the Mechanism
 
 ### The Implementation Flow
-*This diagram illustrates how the input vectors are split, rotated, and recombined.*
+
 
 ![RoPE Architecture Diagram](./rope_diagram.jpg)
 
 
-![Geometric Rotation](https://raw.githubusercontent.com/meta-llama/llama/main/assets/rope_visual.png)
-*(Placeholder: The rotation in the complex plane allows the model to "sense" distance via angle)*
 
 ---
 
