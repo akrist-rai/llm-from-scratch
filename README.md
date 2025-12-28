@@ -1,4 +1,4 @@
-# Micro-Llama: Rotary Positional Embeddings (RoPE)
+# llm from scratch
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
